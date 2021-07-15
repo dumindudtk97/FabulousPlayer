@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Fabulous Player</string>
+    <string name="long_text">Shape of You by ED Sheeran, Album Freedom, Year 2020, Similar music to perfect and the beast</string>
+    <string name="text_with_bullets">\u2022</string>
+    <string name="size_in_b">%1$.2f B</string>
+    <string name="size_in_kb">%1$.2f KB</string>
+    <string name="size_in_mb">%1$.2f MB</string>
+    <string name="size_in_gb">%1$.2f GB</string>
+
+    <string name="audio_sub">Audio &amp; Subtitle </string>
+    <string name="lock">Lock</string>
+    <string name="speed_1x">Speed(1x)</string>
+    <string name="rotate">Rotate</string>
+    <string name="tap_to_unlock">Tap to Unlock</string>
+    <string name="screen_locked">Screen Locked</string>
+    <string name="unlock_controls">Unlock Controls?</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="_10_videos">10 videos</string>
+    <string name="_1_00gb">1.00Gb</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="search">Search file name</string>
+
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="about_us">About us</string>
+    <string name="version">Version</string>
+    <string name="_1_0_1">1.0.1</string>
+    <string name="direct_n_app">Direct\nApp</string>
+    <string name="app_n_link">App\nLink</string>
+    <string name="share">Share</string>
+    <string name="rename">Rename</string>
+    <string name="title">Name:</string>
+    <string name="path">Path:</string>
+    <string name="size">Size:</string>
+    <string name="duration">Duration:</string>
+    <string name="resolution">Resolution:</string>
+</resources>

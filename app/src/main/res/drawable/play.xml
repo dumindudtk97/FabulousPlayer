@@ -1,0 +1,21 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportHeight="30"
+    android:viewportWidth="35">
+
+    <!-- Translate the canvas, then rotate, then scale, then draw the play icon. -->
+    <group android:scaleX="4" android:scaleY="3" android:pivotX="6" android:pivotY="6">
+        <group android:rotation="0" android:pivotX="6" android:pivotY="6">
+            <group android:translateX="2" android:translateY="3">
+                <!-- This path draws an orange triangular play icon. -->
+                <path
+                    android:name="play_path"
+                    android:fillColor="#FFFFFF"
+                    android:pathData="M 4,2.5 L 4,9.5 L 9.5,6 Z"/>
+            </group>
+        </group>
+    </group>
+
+</vector>
